@@ -1,4 +1,3 @@
-# pinecone-semantic-indexing-embedding-search-engine
 # Quora Semantic Search with Sentence Transformers and Pinecone
 
 This project demonstrates how to build a **semantic search engine** using sentence embeddings, vector similarity, and Pinecone. It leverages the **Quora Questions dataset** and the `all-MiniLM-L6-v2` model from the `sentence-transformers` library.
@@ -33,3 +32,9 @@ This project demonstrates how to build a **semantic search engine** using senten
 - Duplicate question detection
 - Content recommendation
 - FAQ search
+---
+
+## 📄 License
+
+All Rights Reserved.  
+This code may not be copied, modified, distributed, or used in any form without express written permission from the author.
